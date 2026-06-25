@@ -140,13 +140,7 @@ body {
 
 .banner-bottom {
     grid-column: 3 / 5;
-    grid-row: 4;
-    height: 100%;
-    width: 100%;
-    border: 1px solid #000000;
-    object-fit: cover;
-    display: block;
-}
+    gr
 
 
 
